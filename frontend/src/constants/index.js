@@ -1,0 +1,18 @@
+export const THEMES = [
+  "light",
+  "dark",
+  "lemonade",
+  "night",
+  "coffee",
+  "winter",
+  "nord",
+  "sunset",
+  "fantasy",
+  "wireframe",
+  "luxury",
+  "dracula",
+  "cmyk",
+  "autumn",
+  "business",
+  "black",
+];
